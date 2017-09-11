@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		A1E62E151F6732880062739B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E62E141F6732880062739B /* AppDelegate.swift */; };
-		A1E62E171F6732880062739B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = A1E62E161F6732880062739B /* art.scnassets */; };
 		A1E62E191F6732880062739B /* RampPlacerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E62E181F6732880062739B /* RampPlacerVC.swift */; };
 		A1E62E1C1F6732880062739B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1E62E1A1F6732880062739B /* Main.storyboard */; };
 		A1E62E1E1F6732880062739B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1E62E1D1F6732880062739B /* Assets.xcassets */; };
 		A1E62E211F6732880062739B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1E62E1F1F6732880062739B /* LaunchScreen.storyboard */; };
+		A1E62E291F67380E0062739B /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = A1E62E161F6732880062739B /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -134,8 +134,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1E62E171F6732880062739B /* art.scnassets in Resources */,
 				A1E62E211F6732880062739B /* LaunchScreen.storyboard in Resources */,
+				A1E62E291F67380E0062739B /* art.scnassets in Resources */,
 				A1E62E1E1F6732880062739B /* Assets.xcassets in Resources */,
 				A1E62E1C1F6732880062739B /* Main.storyboard in Resources */,
 			);
